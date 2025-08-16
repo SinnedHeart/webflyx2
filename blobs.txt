@@ -1,0 +1,32 @@
+100644 blob 63778e7169985c41e0c0d9c9b842346594f81ce9    contents.md
+100644 blob 85773695c3bd42368741850a7f34f1640af5a18c    titles.md
+
+
+git config --add webflyx.ceo "ThePrimeagen"
+git config --add webflyx.cto "TheLaneagen"
+git config --add webflyx.valuation "mid"
+
+
+commit 76d7a936b6ec65af7026073418d7ed1ad4eeda80 (HEAD -> refs/heads/add_classics)
+Author: SinnedHeart <irrealco@gmail.com>
+Date:   Fri Aug 15 19:14:00 2025 -0600
+
+    D: add_classics
+
+commit b8c96294fc95a6957b5b515ddfbdaec67a22005b (refs/heads/main)
+Author: SinnedHeart <irrealco@gmail.com>
+Date:   Fri Aug 15 15:39:51 2025 -0600
+
+    C: add quotes
+
+commit 6187529905047f0f83d65f82ac9ff90f90bdef3b
+Author: SinnedHeart <irrealco@gmail.com>
+Date:   Fri Aug 15 15:34:25 2025 -0600
+
+    B: add titles
+
+commit 4c52a46bee20e68fe844205cc223349e4ab46153
+Author: SinnedHeart <irrealco@gmail.com>
+Date:   Fri Aug 15 15:25:46 2025 -0600
+
+    A: add contents.md
